@@ -1,0 +1,2 @@
+#!/bin/bAsh
+echo $((POWER/DIVIDE))
